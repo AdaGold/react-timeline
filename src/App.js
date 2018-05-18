@@ -1,18 +1,21 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import timelineData from './data/timeline.json';
+
+import Timeline from './components/Timeline';
 
 class App extends Component {
   render() {
+    console.log(timelineData);
+
+    // Customize the code below
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Application title</h1>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <main className="App-main">
+        </main>
       </div>
     );
   }
