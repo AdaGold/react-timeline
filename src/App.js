@@ -15,6 +15,7 @@ class App extends Component {
           <h1 className="App-title">{timelineData.person}'s social media feed</h1>
         </header>
         <main className="App-main">
+          <Timeline events={timelineData.events} />
         </main>
       </div>
     );
