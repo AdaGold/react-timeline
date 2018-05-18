@@ -8,7 +8,9 @@ class TimelineEvent extends React.Component {
       <article className='timeline-event'>
         <p className='event-person'>{this.props.person}</p>
         <p className='event-status'>{this.props.status}</p>
-        <p className='event-time'>{this.props.time}</p>
+        <p className='event-time'>
+          <Timestamp time={this.props.time} />
+        </p>
       </article>
     );
   }
