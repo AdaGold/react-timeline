@@ -6,7 +6,7 @@ In this project you will read information from a JSON file and display it as a s
 ## Learning Goals
 In this project you will learn to:
 - Build React components which recieve data through props
-- Build React container components which pass information to their subcomponents.
+- Build React container components which pass information to their subcomponents
 
 ## Project Outline
 
