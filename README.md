@@ -1,5 +1,5 @@
 
-# Ada's Timeline
+# Ada's Social Feed
 
 In this project you will read information from a JSON file and display it as a social media timeline similar to a Facebook or Twitter feed.
 
