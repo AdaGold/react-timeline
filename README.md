@@ -14,14 +14,13 @@ We have provided you an initial Application Skeleton generated with `create-reac
 
 - `App` - This component is the traditional outer component of the React App. The App component will read in the data from the JSON file and pass the timeline events to the `Timeline` component which it will contain.
 - `Timeline` - This component will take a list of timeline events as a prop and render a list of `TimelineEvent` components.
-- `TimelineEvent` - This component will take an individual timeline event data and render it.  Each `TimelineEvent` will contain a person who posted the event, a status message and a timestamp.
-- `Timestamp` - This component will take timestamp data and display the number of hours since the post was created.  An example would be `6 hours ago`.
+- `TimelineEvent` - This component will take an individual timeline event data and render it.  Each `TimelineEvent` will contain a person who posted the event, a status message and a timestamp.  You will need to use the `Timestamp` component inside this component.
 
 Implement the `render` functions of each component.  An effective strategy could be to implement each component individually testing their output on the screen with hard-coded prop data before trying to integrate the entire app.
 
 Below is a sample solution:
 
-![Sample App](./images/example-feed.png)
+![Sample App](./images/example-timeline.png)
 
 ## Going Further
 
