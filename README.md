@@ -20,6 +20,9 @@ We have provided you an initial Application Skeleton generated with `create-reac
 
 Implement the `render` functions of each component.  An effective strategy could be to implement each component individually testing their output on the screen with hard-coded prop data before trying to integrate the entire app.
 
+## Setup
+After forking and cloning this repo you must run `npm install` in the project directory. This will download and install all of the necessary NPM modules required by the project. After that finishes successfully you can run `npm start` to begin the local development server.
+
 ## Wave 1
 
 For wave 1 implement the `render` function of `TimelineEvent`.  It should take 3 props.
