@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import moment from 'moment';
 
-const Timestamp = () => {
+const Timestamp = (props) => {
   const time = moment(props.time);
   const absolute = time.format('MMMM Do YYYY, h:mm:ss a');
   const relative = time.fromNow();
