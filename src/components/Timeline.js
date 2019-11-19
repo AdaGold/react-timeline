@@ -5,6 +5,6 @@ import TimelineEvent from './TimelineEvent';
 const Timeline = () => {
   
   return;
-};
+}
 
 export default Timeline;
