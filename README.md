@@ -1,14 +1,20 @@
+# React Timeline
 
-# Ada's Social Feed
+## At a Glance
 
-In this project you will read information from a JSON file and display it as a social media timeline similar to a Facebook or Twitter feed.
+- Individual, [stage 1](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md#stage-1) project
+- Due before class on **DATE HERE**
+- Due EOD Friday at 6 PM on **DATE HERE**
 
 ## Learning Goals
-In this project you will learn to:
 - Build React components which recieve data through props
 - Build React container components which pass information to their subcomponents
 
-## Project Outline
+## Objective
+
+We will read information from a JSON file and display it as a social media timeline similar to a Facebook or Twitter feed.
+
+## Getting Started
 
 We have provided you an initial Application Skeleton generated with `create-react-app`.  In the `src/data` folder you will have a JSON file filled with timeline data for a specific user.  The application will have the following components:
 
@@ -24,8 +30,11 @@ We have already implemented some pieces of this project:
 - A component `Timestamp`, that displays a time in a human-readable format
 - CSS files. These should be included in the project automatically, but you will need to figure out how to attach the styles to the HTML you render.
 
-## Setup
-After forking and cloning this repo you must run `npm install` in the project directory. This will download and install all of the necessary NPM modules required by the project. After that finishes successfully you can run `npm start` to begin the local development server.
+## Setup Requirements
+
+1. Fork and clone this repo
+1. Install this project's dependencies with `$ npm install`
+1. Start the local development server that runs our React project with `$ npm start`
 
 ## Wave 1
 
