@@ -4,12 +4,11 @@
 
 Feature | Feedback
 :------------- | :-------------
-**Baseline Requirements** |
-Git hygiene |
-Comprehension Questions  |    |
+Git hygiene | 
+Comprehension Questions | 
 **React Components** |
-TimelineEvent component  |
-Timeline component  |
-App component  |
-Passing data through props to subcomponents |
+TimelineEvent component is implemented|
+Timeline component is implemented |
+App component is implemented |
+Data is passed through props to subcomponents overall |
 **Overall**  |
