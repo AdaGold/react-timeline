@@ -1,3 +1,3 @@
 #!/bin/sh
 
-npm test
+CI=true npm test
