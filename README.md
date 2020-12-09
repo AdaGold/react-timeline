@@ -90,6 +90,10 @@ Below is a sample solution:
 
 ![Sample App](./images/example-timeline.png)
 
+## Tests
+
+We have provided some tests that simply verify that if the properly named props are passed into the components their values show up in the browser.  You can run the tests with `npm test`.
+
 ## Going Further
 
 Add some styling to the application to make it look more like a social media feed.
