@@ -12,7 +12,7 @@ WORKDIR /app
 ARG SUBMISSION_SUBFOLDER
 ADD $SUBMISSION_SUBFOLDER /app
 
-# for Testing
+# for Testing the dockerfile
 # ADD . .
 
 RUN npm install
