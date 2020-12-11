@@ -3,7 +3,7 @@
 ## At a Glance
 
 - Individual, [stage 1](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/classroom/rule-of-three.md#stage-1) project
-- Due before class on **Monday December 28th**
+- Due before class on **DATE HERE**
 
 ## Learning Goals
 - Build React components which recieve data through props
