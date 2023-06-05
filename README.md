@@ -6,7 +6,7 @@
 - Due before class on **DATE HERE**
 
 ## Learning Goals
-- Build React components which recieve data through props
+- Build React components which receive data through props
 - Build React container components which pass information to their subcomponents
 
 ## Objective
