@@ -66,8 +66,8 @@ We have already implemented some pieces of this project:
 ## Setup Requirements
 
 1. Fork and clone this repo
-1. Install this project's dependencies with `$ npm install`
-1. Start the local development server that runs our React project with `$ npm start`
+1. Install this project's dependencies with `$ yarn install`
+1. Start the local development server that runs our React project with `$ yarn start`
 
 ## Wave 1
 
@@ -92,7 +92,7 @@ Below is a sample solution:
 
 ## Tests
 
-We have provided some tests that simply verify that if the properly named props are passed into the components their values show up in the browser.  You can run the tests with `npm test`.
+We have provided some tests that simply verify that if the properly named props are passed into the components their values show up in the browser.  You can run the tests with `yarn test`.
 
 ## Going Further
 
